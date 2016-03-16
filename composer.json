@@ -1,7 +1,7 @@
 {
     "name": "coderofsalvation/microfunctional",
     "description": "Bare minimum functional programming helpers",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "version": "0.1.2",
     "license": "BSD-3-Clause",
     "authors": [
