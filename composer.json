@@ -1,0 +1,22 @@
+{
+    "name": "coderofsalvation/BrowserStream",
+    "description": "stream text to browser in realtime without using websockets or ajax.",
+    "minimum-stability": "dev",
+    "version": "0.1.2",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Coder of Salvation",
+            "email": "info@leon.vankammen.eu",
+            "homepage": "http://www.leonvankammen.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": ["src"]
+        }
+    },      
+    "require": {
+       "php": ">=5.4.0"
+    }
+}
