@@ -1,7 +1,7 @@
 {
     "name": "coderofsalvation/microfunctional",
     "description": "Bare minimum functional programming helpers",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "version": "0.1.2",
     "license": "BSD-3-Clause",
     "authors": [
@@ -12,9 +12,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "": ["src"]
-        }
+        "files": ["src/all.php"]
     },      
     "require": {
        "php": ">=5.4.0"
